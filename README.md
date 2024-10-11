@@ -10,7 +10,8 @@ It follows standard checkers rules for moving and jumping pieces across the boar
 
 ## Current Progress
 - The game interface is complete.
-- Piece movement is functioning as expected (no capture functionality yet).
+- Piece movement is functioning as expected.
+- Capturing is happening.
 
 ## Future Improvements
 - Add winning/losing conditions.
